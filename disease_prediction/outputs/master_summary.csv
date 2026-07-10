@@ -1,0 +1,13 @@
+Dataset,Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Diabetes,Random Forest,0.7403,0.6522,0.5556,0.6,0.8161
+Diabetes,Logistic Regression,0.7078,0.6,0.5,0.5455,0.813
+Diabetes,XGBoost,0.7532,0.6667,0.5926,0.6275,0.8094
+Diabetes,SVM (RBF kernel),0.7403,0.6522,0.5556,0.6,0.7964
+Heart Disease,Random Forest,0.8197,0.7619,0.9697,0.8533,0.9123
+Heart Disease,SVM (RBF kernel),0.8197,0.775,0.9394,0.8493,0.8831
+Heart Disease,Logistic Regression,0.8033,0.7692,0.9091,0.8333,0.869
+Heart Disease,XGBoost,0.7869,0.7381,0.9394,0.8267,0.8463
+Breast Cancer,Logistic Regression,0.9825,0.9861,0.9861,0.9861,0.9954
+Breast Cancer,SVM (RBF kernel),0.9825,0.9861,0.9861,0.9861,0.995
+Breast Cancer,XGBoost,0.9561,0.9467,0.9861,0.966,0.9934
+Breast Cancer,Random Forest,0.9561,0.9589,0.9722,0.9655,0.9932
